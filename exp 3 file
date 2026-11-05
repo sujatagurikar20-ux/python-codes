@@ -1,0 +1,16 @@
+AIM
+To write a Python program to demonstrate various string methods and string operations.
+
+Step 1: Start.
+Step 2: Store the string "Hello Python".
+Step 3: Find and display its length.
+Step 4: Convert it to uppercase and lowercase, and display both.
+Step 5: Display the character at index 6.
+Step 6: Find the position of "Python" in the string.
+Step 7: Slice the string from index 6 to the end.
+Step 8: Replace "Python" with "Universe".
+Step 9: Check whether "Python" is present in the string.
+Step 10: Join the string with "Programming".
+Step 11: Remove the extra spaces from another string.
+Step 12: Display all the results.
+Step 13: Stop.
