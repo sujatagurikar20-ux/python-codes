@@ -1,0 +1,10 @@
+Aim : wriite a program to demonstrate tuple and related functions in python
+
+Algorithm
+1. Initialize a sample tuple with elements.
+2. Access elements using indexing and slicing.
+3. Check item existence using the in operator.
+4. Find metadata using len() and count().
+5. Find positions of specific items using index().
+6. Concatenate and multiply tuples.
+7. Display results after each operation.
